@@ -1,2 +1,1 @@
-# DS-DA  
-ML, DA, DS, DL
+# Data Science, analysis, AI study
