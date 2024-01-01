@@ -1,1 +1,1 @@
-# Data Science, analysis, AI study
+### 기본적인 내용 공부한 것들 관련해서 마구잡이로 올려둔 Repository
